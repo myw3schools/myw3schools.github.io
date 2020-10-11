@@ -33,7 +33,7 @@
 <li class="about-us__description"><a href="https://manjunath5496.github.io ">https://manjunath5496.github.io</a></li>
 </ul>
 </br>
-<img src="UK-1.jpg" alt="Smiley face">
+<img src="images/UK-1.jpg" alt="Smiley face">
 
 </br>
 
