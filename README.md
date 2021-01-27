@@ -1,5 +1,5 @@
 
-<p><a class="leftAlignedImage" href="tuy.jpg"><img src="tuy.jpg" alt="Alan Turing" width="380" height="253"/></a></p>
+<p><a class="leftAlignedImage" href="images/tuy.jpg"><img src="tuy.jpg" alt="Alan Turing" width="380" height="253"/></a></p>
 <div class="quoteText">
 <p class="quoteText">"I believe that at the end of the century the use of words and general educated opinion will have altered so much that one will be able to speak of machines thinking without expecting to be contradicted."</p>
 <p>― <a href="https://en.wikipedia.org/wiki/Alan_Turing">Alan Turing</a></p>
